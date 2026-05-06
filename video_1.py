@@ -1,10 +1,10 @@
 # # Print Function
-print("My name is Ayush")
-print("My age is 23")
-print("My name is Ayush","My age is 23")     #, indicates a space
-print(26)
-print(23+40)                                 #treated as numbers
-print("23"+"40")                             #treated as string
+# print("My name is Ayush")
+# print("My age is 23")
+# print("My name is Ayush","My age is 23")     #, indicates a space
+# print(26)
+# print(23+40)                                 #treated as numbers
+# print("23"+"40")                             #treated as string
 
 #Variables
 # name = "Ayush"
